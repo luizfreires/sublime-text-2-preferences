@@ -1,0 +1,32 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"fallback_encoding": "UTF-8",
+	"font_size": 9,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".sass-cache",
+		"apigen",
+		"tmp",
+		"__pycache__"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"soda_folder_icons": true,
+	// "overlay_scroll_bars": "enabled", // Numix Theme
+	// "tabs_medium": true, // Numix Theme
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": true
+}

@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"jQuery",
+		"LESS",
+		"Numix Theme",
+		"Package Control",
+		"PlainTasks",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
+		"Theme - Soda",
+		"WordPress",
+		"WordPress Developer Resources",
+		"WordPress Readme to Markdown"
+	]
+}
