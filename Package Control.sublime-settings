@@ -4,6 +4,8 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"EditorConfig",
 		"jQuery",
 		"LESS",
 		"Numix Theme",
